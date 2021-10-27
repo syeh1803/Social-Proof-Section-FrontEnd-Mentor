@@ -1,13 +1,23 @@
-# Frontend Mentor - Social proof section
+# Frontend Mentor - Social proof section solution
 
-![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
 
-## The challenge
+## Overview
 
-Your challenge is to build out this social proof section and get it looking as close to the design as possible.
+### The challenge
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Users should be able to:
 
-Your users should be able to:
+- View the optimal layout for the site depending on their device's screen size
 
-- View the optimal layout for the section depending on their device's screen size
+### Screenshot
+
+![](./images/desktop-1440px.png)
+![](./images/mobile-375px.png)
+
+### Built with
+
+- Semantic HTML5 markup
+- Vanilla CSS
+- Flexbox
+- Desktop-first workflow
