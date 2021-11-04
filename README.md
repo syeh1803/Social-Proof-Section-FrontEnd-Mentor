@@ -13,6 +13,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/desktop-1440px.png)
+![](./images/mobile-375px.png)
 
 ### Built with
 
